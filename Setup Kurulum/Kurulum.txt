@@ -1,0 +1,1 @@
+vermiş olduğum veritabanı dosyasını bilgisayara import işlemi yaptıktan sonra projenin appconfig formunda data source="..." 3 noktalı yere kendi bilgisayarın veritabanı yolunu ekleyin
